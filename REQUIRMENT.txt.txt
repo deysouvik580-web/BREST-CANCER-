@@ -1,0 +1,37 @@
+ pandas
+ sklearn.model_selection 
+ train_test_split
+ sklearn.datasets 
+ load_breast_cancer
+ sklearn.linear_model 
+ LogisticRegression
+ sklearn.metrics 
+ accuracy_score
+
+ sklearn.datasets: 
+	 load_wine
+
+ sklearn.model_selection 
+ train_test_split
+ sklearn.tree 
+ DecisionTreeClassifier
+ sklearn.linear_model 
+ LogisticRegression
+ sklearn.metrics 
+ accuracy_score
+
+
+ numpy :
+	 digitize
+
+ sklearn.datasets 
+ load_digits
+ sklearn.model_selection 
+ train_test_split
+ sklearn.tree 
+ DecisionTreeClassifier
+ sklearn.linear_model 
+ LogisticRegression
+ sklearn.metrics 
+ accuracy_score
+
